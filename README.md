@@ -1,5 +1,6 @@
 # SphereGuiderPrivacyPolicy
-The Privacy Policy for the mobile app "Sphere Guider"
+The Privacy Policy for the mobile app "Sphere Guider", you can find it here on the Google Play Store: 
+https://play.google.com/store/apps/details?id=com.VeliteGames.SphereGuider
 
 I have to disclose a privacy policy for this app even though I don't collect any personal user data.  
 
